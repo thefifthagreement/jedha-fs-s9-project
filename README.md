@@ -1,11 +1,13 @@
-# Jedha Data Science Bootcamp - Fullstack - Semaine 9
+# Big Data EDA project
 
-_Session dsmft-paris-08_
+> Jedha Data Science Bootcamp - Fullstack - Semaine 9
+
+> _Session dsmft-paris-08_
 
 # Spark ML
 
-EDA d'une base de Yelp, review de restaurant
+* Exploratory Data Analysis of a Yelp dataset, custumer reviews of restaurants
 
-Prédiction de la note attribuée
+* How to predict the restaurant rating ?
 
-Implémentation d'un système de recommandation de type Alternating Least Squares
+* Implementation of a recommandation system using an Alternating Least Squares approach
