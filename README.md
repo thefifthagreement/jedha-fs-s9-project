@@ -1,4 +1,4 @@
-# Big Data EDA project
+# Big Data EDA databricks project
 
 > Jedha Data Science Bootcamp - Fullstack - Semaine 9
 
